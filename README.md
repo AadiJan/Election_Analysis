@@ -9,6 +9,7 @@ After performing the analysis with the 'election_results.csv', the following res
   * Software: Python 3.7.6, Visual Studio Code 1.71.1 
   * The data and the output can also be found here: https://github.com/AadiJan/Election_Analysis
   * The snapshot of the election results can be found here: 
+  
     ![Results_Snapshot](https://github.com/AadiJan/Election_Analysis/blob/00fecc37ced415cf69c9ddc41fb4413fc1319e5b/results_snapshot.PNG)
 
 1. Total number of votes in the congressional election: 369,711
